@@ -18,6 +18,8 @@
         </div>
     </header>
 
+    <hr class="style-two">
+
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
@@ -29,6 +31,8 @@
             </div>
         </div>
     </section>
+
+    <hr class="style-two">
 
     <!-- Gallery Section -->
     <section id="gallery" class="content-section text-center">
@@ -89,6 +93,8 @@
         </div>
     </section>
 
+    <hr class="style-two">
+    
     <!-- Contact Section -->
     <section id="contact" class="container content-section text-center">
         <div class="row">
