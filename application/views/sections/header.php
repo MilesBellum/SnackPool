@@ -65,7 +65,8 @@
                             <i class="fa fa-map-marker"></i> CONTACTO</a>
                     </li>
                     <li>
-                        <a href="index.php/welcome/logueo">Login</a>
+                        <a href="index.php/welcome/logueo"><i class="fa fa-sign-in"></i></a>
+                       
                     </li>
                 </ul>
             </div>
